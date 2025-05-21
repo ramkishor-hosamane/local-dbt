@@ -1,1 +1,1 @@
-print("Birdie Jean, Not Migratin")
+print("Birdie Jean, Not Migratin..shes just a bird")
